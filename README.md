@@ -1,0 +1,3 @@
+# NiceBin
+
+Accurate binning pipeline
